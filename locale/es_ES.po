@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:stock.location,input_quantity:"
+msgid "Input Quantity"
+msgstr "Entradas"
+
+msgctxt "field:stock.location,output_quantity:"
+msgid "Output Quantity"
+msgstr "Salidas"

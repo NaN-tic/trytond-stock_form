@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- This file is part of stock_form.  The COPYRIGHT file at the top level of
+this repository contains the full copyright notices and license terms. -->
+<tryton>
+    <data>
+        <record model="ir.ui.view" id="location_quantity_view_tree">
+            <field name="model">stock.location</field>
+            <field name="inherit" ref="stock.location_quantity_view_tree"/>
+            <field name="name">location_quantity_tree</field>
+        </record>
+    </data>
+</tryton>

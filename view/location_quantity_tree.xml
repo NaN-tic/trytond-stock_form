@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- This file is part of stock_form module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full
+copyright notices and license types. -->
+<data>
+    <xpath expr="/tree/field[@name='forecast_quantity']" position="after">
+        <field name="input_quantity"/>
+        <field name="output_quantity"/>
+    </xpath>
+</data>
